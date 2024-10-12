@@ -7,7 +7,7 @@ const MyComponent = () => {
         <div className="container">
             <header className="text-center bg-primary text-white py-5">
                 <h1>My Portfolio</h1>
-                <p>Welcome to my personal portfolio! Here are some of my projects.</p>
+                <p>Hi my name is Mgasu from Kenya and Welcome to my personal portfolio! Here are some of my projects.</p>
             </header>
             <main className="my-5">
                 <h2>Projects</h2>
